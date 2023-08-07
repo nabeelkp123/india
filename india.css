@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+max-width: 100%;
+background-blend-mode: darken;
+color: azure;
+
+
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    font-size: 60px;
+    letter-spacing: 10px;
+    justify-content: center;
+background-color: rgba(0, 0, 0, 0.753);   
+background-repeat: no-repeat;
+width: 100%;
+
+}
+
+li.a {
+color: rgb(255, 166, 0);
+}
+
+
+
+li.b {
+    color: rgb(255, 166, 0);
+}
+
+
+
+    li.c {
+        color: rgb(255, 255, 255);
+        }
+        li.d {
+            color: rgb(3, 102, 0);
+            }
+            li.e {
+                color: rgb(3, 102, 0);
+                }
+             
+
+                h1{
+                  
+                }
+                .song {
+                    justify-content: center;
+                    background-color: rgba(0, 0, 0, 0.623);
+                    border-radius: 30px;
+                }
+              
+               b{
+                align-items: center;
+               }
+
+               .hed {
+                background-color: rgba(13, 53, 5, 0.671);
+               }
+            
+               .music audio{
+              
+                justify-content: center;
+               }
+
+               .video {
+                display: flex;
+                justify-content: space-evenly;
+               
+               }
